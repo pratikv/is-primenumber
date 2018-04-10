@@ -1,5 +1,5 @@
 {
-  "name": "is-primenumber",
+  "name": "@pratikv/is-prime",
   "version": "1.0.0",
   "description": "A test for prime number based on Sieve of Eratosthenes",
   "main": "index.js",
